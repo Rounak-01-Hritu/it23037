@@ -1,0 +1,5 @@
+Player Name          Score      Date and Time        Difficulty Level
+Hriut                0/5        2024-11-20 13:52:07  Beginner       
+hritu                4/5        2024-11-20 15:06:44  Beginner       
+Afrin                5/5        2024-11-20 15:07:32  Beginner       
+Mimi                 10/10      2024-11-20 15:49:20  Intermediate   
